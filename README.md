@@ -1,4 +1,2 @@
-# Java Notes 
-<h1>Google</h1>
-Microsoft 
-Hacker 
+# Java Notes
+<h1>Google Microsoft Netflix Amazon JP Morgan Meta </h1>
