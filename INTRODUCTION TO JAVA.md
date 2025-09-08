@@ -236,3 +236,10 @@ package com.company.project;
 
 import java.util.Scanner; // Importing a class from another package
 ```
+
+
+# 14. What is String[] args in public static void main(String[] args)?
+
+**Answer:**
+
+String[] args in public static void main(String[] args) is simply an array of strings that stores command-line arguments passed to the program when it runs. It allows external input to be fed into the program at runtime.
